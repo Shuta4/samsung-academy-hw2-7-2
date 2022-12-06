@@ -3,6 +3,8 @@
     <string name="username">Логин</string>
     <string name="password">Пароль</string>
     <string name="login">Войти</string>
+    <string name="register">Зарегистрироваться</string>
     <string name="correct">Верно</string>
-    <string name="fail">Вы ошиблись в логине или пароле</string>
+    <string name="title_activity_register">Регистрация пользователя</string>
+    <string name="enter_username_and_password">Введите логин и пароль пользователя</string>
 </resources>

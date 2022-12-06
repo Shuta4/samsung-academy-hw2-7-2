@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Activity</string>
+    <string name="username">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="correct">Верно</string>
+    <string name="fail">Вы ошиблись в логине или пароле</string>
+</resources>
